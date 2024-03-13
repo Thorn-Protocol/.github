@@ -1,11 +1,11 @@
-# Welcome to Thorns Protocol
+# Welcome to Thorn Protocol
 
 ## Protocol Document
 Gitbook: cooming soon
 
 ## Project Link
 
-Contract: https://github.com/Thorns-Protocol/thorns-protocol-contract
+Contract: https://github.com/Thorn-Protocol/Thorn-protocol-contract
 
 App: 
 
@@ -16,7 +16,7 @@ Discord:
 
 Bug Tracker Link: 
 
-[thorns-contract-core](https://github.com/Thorns-Protocol/thorns-protocol-contract/issues)
+[Thorn-contract-core](https://github.com/Thorn-Protocol/Thorn-protocol-contract/issues)
 
 ## Comminities
 
