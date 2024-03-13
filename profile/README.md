@@ -5,7 +5,7 @@ Gitbook: cooming soon
 
 ## Project Link
 
-Contract: 
+Contract: https://github.com/Thorns-Protocol/thorns-protocol-contract
 
 App: 
 
@@ -16,7 +16,7 @@ Discord:
 
 Bug Tracker Link: 
 
-[thorns-contract-core](https://github.com/Thorns-Protocol/thorns-contract-core/issues)
+[thorns-contract-core](https://github.com/Thorns-Protocol/thorns-protocol-contract/issues)
 
 ## Comminities
 
