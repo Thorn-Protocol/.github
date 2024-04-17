@@ -12,7 +12,6 @@ Contract: https://github.com/Thorn-Protocol/Thorn-protocol-contract
 Landing Page: https://thornprotocol.com/
 
 ## Contact
-Discord: https://discord.gg/a2NX969GJ8
 
 ## Bug Tracker
 
