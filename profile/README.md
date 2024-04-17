@@ -1,16 +1,17 @@
 # Welcome to Thorn Protocol
 
 ## Protocol Document
+[Medium](https://thornprotocol.medium.com/)
 Gitbook: cooming soon
 
 ## Project Link
 
 Contract: https://github.com/Thorn-Protocol/Thorn-protocol-contract
 
-App: 
+Landing Page: https://thornprotocol.com/
 
 ## Contact
-Discord: 
+Discord: https://discord.gg/a2NX969GJ8
 
 ## Bug Tracker
 
@@ -20,6 +21,6 @@ Bug Tracker Link:
 
 ## Comminities
 
-[Discord](https://discord.gg)
+[Discord]([https://discord.gg](https://discord.gg/a2NX969GJ8))
 
-[Facebook](https://www.facebook.com)
+[Twitter(X)]([https://www.facebook.com](https://twitter.com/thorn_protocol))
