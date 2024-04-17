@@ -22,6 +22,6 @@ Bug Tracker Link:
 
 ## Comminities
 
-[Discord]([https://discord.gg](https://discord.gg/a2NX969GJ8))
+[Discord](https://discord.gg/a2NX969GJ8)
 
-[Twitter(X)]([https://www.facebook.com](https://twitter.com/thorn_protocol))
+[Twitter(X)](https://twitter.com/thorn_protocol)
