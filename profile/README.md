@@ -3,7 +3,7 @@
 ## Protocol Document
 [Medium](https://thornprotocol.medium.com/)
 
-Gitbook: cooming soon
+[User guide](https://docs.thornprotocol.com/)
 
 ## Project Link
 
