@@ -8,7 +8,9 @@ Gitbook: cooming soon
 ## Project Link
 
 Stable Swap Contract: https://github.com/Thorn-Protocol/Thorn-protocol-contract
+
 AI Wallet Contract: https://github.com/Thorn-Protocol/account-abstraction-contract
+
 Landing Page: https://thornprotocol.com/
 
 ## Contact
@@ -26,4 +28,5 @@ Bug Tracker Link:
 [Twitter(X)](https://twitter.com/thorn_protocol)
 
 ## App
+
 https://app.thornprotocol.com/
